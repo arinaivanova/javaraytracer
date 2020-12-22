@@ -1,5 +1,7 @@
 # Basic Java Raytracer
 A basic **raytracer in Java (JDK 14)** from scratch for a school task.
+
+See [source code](https://github.com/arinaivanova/javaraytracer/tree/master)
 ## Sample input and usage
 ```java
 	static IShape[] shapes;		// Geometric shapes in the scene
